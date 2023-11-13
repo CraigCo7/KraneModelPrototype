@@ -1,0 +1,92 @@
+Activity ID,Package,Activity Name,Remaining Duration,Start,Finish
+450098-89942-MS01 Master Construction Schedule,,,90,14-Jan-21,10-Jun-22
+    450098-89942-MS01.C CONSTRUCTION,,,90,14-Jan-21,10-Jun-22
+        450098-89942-MS01.C.25 INTERCONNECT,,,90,14-Jan-21,10-Jun-22
+            450098-89942-MS01.C.25.R01,,,90,25-Oct-21,10-Jun-22
+                450098-89942-MS01.C.25.R01.51 - Demolition,,,5,7-Feb-22,14-Feb-22
+                    CR01-51-1000,IWPR01.SS.001.150,"R01 - North PR, Struct. Steel Demo Existing Columns @ ISBL Access Pipe Bridge @ Nrthend",5,7-Feb-22,14-Feb-22
+                450098-89942-MS01.C.25.R01.51-S - Demolition Subcontract,,,15,15-Feb-22,7-Mar-22
+                    CR01-51S-1000,IWPR01.DM.002,"R01 - Nrth PR, Subcontract Demo Abatement in Various Areas",15,15-Feb-22,7-Mar-22
+                450098-89942-MS01.C.25.R01.58 - Structural Steel,,,8,31-Jan-22,10-Feb-22
+                    CR01-58-1090,IWPR01.SS.001.139,"R01 - Nrth PR, Struct. Steel Erect @ ISBL Access Bridge Tower (Pre-Assemble) WP-139",5,31-Jan-22,4-Feb-22
+                    CR01-58-1340,IWPR01.SS.001.140,"R01 - Nrth PR, Struct. Steel Erect @ ISBL Access Bridge Trusses (Pre-Assemble) WP-140",5,3-Feb-22,10-Feb-22
+                450098-89942-MS01.C.25.R01.62 - Piping,,,90,25-Oct-21,10-Jun-22
+                    CR01-62-1030,IWPR01.AP.001.89,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch UPR. Exp. Loop Mod 19 WP-89",0,25-Oct-21,27-Jan-22
+                    CR01-62-1060,IWPR01.AP.001.73,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch UPR. Mod 18 WP-73",0,10-Jan-22,31-Jan-22
+                    CR01-62-1080,IWPR01.AP.001.93,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch LWR. Mod 21 WP-93",0,9-Nov-21,31-Jan-22
+                    CR01-62-1020,IWPR01.AP.001.91,"R01 - North PR, Piping Receive Erect Bolt-up/Weld-out Trim/Punch LWR. Mod 19 WP-91",1,25-Oct-21,31-Jan-22
+                    CR01-62-1210,IWPR01.AP.001.18,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch LWR. Exp. Loop Mod 23 Col. 2 WP-18",1,12-Nov-21,31-Jan-22
+                    CR01-62-1780,IWPR01.AP.001.114,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch Off Rack 02 WP-114",1,20-Nov-21,31-Jan-22
+                    CR01-62-1180,IWPR01.AP.001.98,"R01 - North PR, Piping Erect, Bolt-up/Weld-out, Trim/Punch LWR. Stick Build 26 WP-98",5,8-Dec-21,4-Feb-22
+                    CR01-62-1350,IWPR01.AP.001.121,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch Manifold Beneath Mod 26 WP-121",6,20-Jan-22,7-Feb-22
+                    CR01-62-1260,IWPR01.AP.001.20,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch LWR. Exp. Loop Mod 25 Col. 1 WP-20",6,6-Dec-21,7-Feb-22
+                    CR01-62-1500,IWPR01.AP.001.126,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch Pipe for Tie In 3 & 345 WP-126",5,2-Feb-22,8-Feb-22
+                    CR01-62-1010,IWPR01.AP.001.72,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch UPR. Mod 17 WP-72",8,31-Jan-22,10-Feb-22
+                    CR01-62-1170,IWPR01.AP.001.97,"R01 - North PR, Piping Erect, Bolt-up/Weld-out, Trim/Punch LWR. Stick Build 25 WP-97",5,29-Nov-21,14-Feb-22
+                    CR01-62-1800,IWPR01.AP.001.94-W,"R01 - North PR, Piping Weld-out & Support Pipe, Mod 22 WP-94-W",10,31-Jan-22,14-Feb-22
+                    CR01-62-1050,IWPR01.AP.001.92,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch LWR. Mod 20 WP-92",0,7-Nov-21,21-Feb-22
+                    CR01-62-1090,IWPR01.AP.001.120,"R01 - Nrth PR, Piping Fab & Erecet Pipe, South End of Rack 04 WP-120",9,8-Feb-22,21-Feb-22
+                    CR01-62-1130,IWPR01.AP.001.99,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch UPR. Mod 19 WP-99",15,1-Feb-22,22-Feb-22
+                    CR01-62-1810,IWPR01.AP.001.95-W,"R01 - North PR, Piping Weld-out & Support Pipe, Mod 23 WP-95-W",10,15-Feb-22,28-Feb-22
+                    CR01-62-1820,IWPR01.AP.001.96-W,"R01 - North PR, Piping Weld-out & Support Pipe, Mod 24 WP-96-W",10,15-Feb-22,28-Feb-22
+                    CR01-62-1140,IWPR01.AP.001.100,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch UPR. Mod 20 WP-100",15,8-Feb-22,1-Mar-22
+                    CR01-62-1160,IWPR01.AP.001.101,"R01 - North PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch UPR. Mod 21 WP-101",15,16-Feb-22,8-Mar-22
+                    CR01-62-1290,IWPR01.AP.001.106,"R01 - North PR, Piping Erect, Bolt-up/Weld-out, Trim/Punch UPR. Stick Build 26 WP-106",5,8-Dec-21,10-Jun-22
+                450098-89942-MS01.C.25.R01.65 - Electrical,,,24,10-Jan-22,5-Mar-22
+                    CR01-65-1330,IWPR01.AE.003.28,"R01 - North PR, Elect. Bulk Pull Cables 1/c #1000 /13.8kv Pull to SS-66 Tag & Coil (WP-29 COL-115",6,10-Jan-22,7-Feb-22
+                    CR01-65-1440,IWPR01.AE.003.28,,15,17-Feb-22,5-Mar-22
+                450098-89942-MS01.C.25.R01.65-S1 - Electrical (Contech) Subcontractor,,,2,8-Feb-22,10-Feb-22
+                    CR01-65-1620,IWPR01.AE.003.28,"R01 - North PR, / Elect. Pre-Splice Meg-1 Test Pulls SS-66",2,8-Feb-22,10-Feb-22
+                450098-89942-MS01.C.25.R01.66-S - Painting & Protective Coatings Subcontract,,,16,31-Jan-22,22-Feb-22
+                    CR01-66-S-1130,IWPR01.PC.001,"R01 - Nrth PR, Subcontrator Paint Mod 14",5,31-Jan-22,4-Feb-22
+                    CR01-66-S-1140,IWPR01.PC.001,"R01 - Nrth PR, Subcontrator Paint Mod 16",5,31-Jan-22,4-Feb-22
+                    CR01-66-S-1160,IWPR01.PC.001,"R01 - Nrth PR, Subcontrator Paint Mod 15",5,7-Feb-22,14-Feb-22
+                    CR01-62-1840,IWPR01.AP.001.01,R01-AP-001-01 Paint Pipe Lower Mod 1,14,31-Jan-22,18-Feb-22
+                    CR01-62-1850,IWPR01.AP.001.02,R01-AP-001-02 Paint Pipe Lower Mod 2,16,31-Jan-22,22-Feb-22
+            450098-89942-MS01.C.25.R04,,,72,20-Oct-21,17-May-22
+                450098-89942-MS01.C.25.R04.51 - Demolition,,,20,31-Jan-22,28-Feb-22
+                    CR04-51-1000,IWPR04.DM.001.01,"R04 - South PR, DEMO E&I, Steel, Piping, Equipment & FND's",20,31-Jan-22,28-Feb-22
+                450098-89942-MS01.C.25.R04.58 - Structural Steel,,,5,31-Jan-22,4-Feb-22
+                    CR04-58-1030,IWPR04.SS.006.06A,"R04 - South PR, Struct. Steel Shake out, Erect, Rattle, Align & Bolt Route W, Col. 15 - 18A EXP. Loop WP-06A",5,31-Jan-22,4-Feb-22
+                450098-89942-MS01.C.25.R04.62 - Piping,,,72,20-Oct-21,17-May-22
+                    CR04-62-1520,IWPR04.AP.004.03,"R04 - South PR, Piping, Erect, Bolt-up/Weld-out, Trim/Punch Pipe 03 Lower Pre-Fab WP-03",0,20-Nov-21,28-Jan-22
+                    CR04-62-1180,IWPR04.AP.004.19,"R04 - South PR, Piping, Fab & Erect Pipe, Upper WP-19",0,9-Nov-21,31-Jan-22
+                    CR04-62-1220,IWPR04.AP.004.26,"R04 - South PR, Piping, Fab & Erect Pipe, Upper WP-26",0,16-Nov-21,31-Jan-22
+                    CR04-62-1240,IWPR04.AP.004.32,"R04 - South PR, Piping, Fab & Erect Pipe, Upper WP-32",0,16-Nov-21,31-Jan-22
+                    CR04-62-1150,IWPR04.AP.004.35,"R04 - South PR, Piping Fab & Erect Pipe, South WP-35",0,30-Nov-21,31-Jan-22
+                    CR04-62-1100,IWPR04.AP.004.02,"R04 - South PR, Piping Receive, Fab & Erect Pipe Upper WP-02",0,8-Nov-21,31-Jan-22
+                    CR04-62-1120,IWPR04.AP.004.14,"R04 - South PR, Piping, Fab & Erect, Pipe Upper WP-14",0,9-Nov-21,31-Jan-22
+                    CR04-62-1090,IWPR04.AP.004.04,"R04 - South PR, Piping, Erect, Bolt-up/Weld-out, Trim/Punch Mid EXP. Loop 01 Pre-Fab WP-04",2,18-Nov-21,1-Feb-22
+                    CR04-62-1080,IWPR04.AP.004.13,"R04 - South PR, Piping, Bolt-up/Weld-out, Trim/Punch Pipe Mid WP-13",2,1-Nov-21,1-Feb-22
+                    CR04-62-1200,IWPR04.AP.004.24,"R04 - South PR, Piping, Fab & Erect Pipe Upper WP-24",0,22-Nov-21,2-Feb-22
+                    CR04-62-1510,IWPR04.AP.004.01,"R04 - South PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch Pipe Lower WP-01",2,20-Nov-21,2-Feb-22
+                    CR04-62-1110,IWPR04.AP.004.11,"R04 - South PR, Piping, Fab & Erect Pipe Upper WP-11",3,9-Nov-21,2-Feb-22
+                    CR04-62-1260,IWPR04.AP.004.05,"R04 - South PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch- 05 Metering Station WP-05",5,31-Jan-22,4-Feb-22
+                    CR04-62-1290,IWPR04.AP.004.06,"R04 - South PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch 06 Pipe Drop WP-06",5,31-Jan-22,4-Feb-22
+                    CR04-62-1070,IWPR04.AP.004.17-W,"R04 - South PR, Piping, Weld-out & Support Pipe, Mid WP-17-W",5,2-Feb-22,8-Feb-22
+                    CR04-62-1810,IWPR04.AP.004.02-W,"R04 - South PR, Piping, Weld-out & Support Pipe, Upper WP-02-W",0,8-Nov-21,10-Feb-22
+                    CR04-62-1310,IWPR04.AP.004.07,"R04 - South PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch- 07 Pipe Drop WP-07",5,3-Feb-22,10-Feb-22
+                    CR04-62-1160,IWPR04.AP.004.16,"R04 - South PR, Piping, Fab & Erect Pipe, Upper WP-16",15,15-Nov-21,21-Feb-22
+                    CR04-62-1060,IWPR04.AP.004.20-W,"R04 - South PR, Piping, Weld-out & Support Pipe, Mid WP-20-W",5,17-Feb-22,23-Feb-22
+                    CR04-62-1740,IWPR04.AP.004.11-W,"R04 - South PR, Piping, Weld-out & Support Pipe, Upper WP-11-W",15,10-Feb-22,2-Mar-22
+                    CR04-62-1020,IWPR04.AP.004.28,"R04 - South PR, Piping Receive Erect Bolt-up/Weld-out Trim/Punch Mid WP-28",0,20-Oct-21,11-Mar-22
+                    CR04-62-1270,IWPR04.AP.004.33,"R04 - South PR, Piping, Pre-Fab, Erect, Bolt-up/Weld-out, Trim/Punch Pipe EXP. Loop #03 WP-33",0,22-Nov-21,11-Mar-22
+                    CR04-62-1130,IWPR04.AP.004.34,"R04 - South PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch Pipe South WP-34",0,29-Nov-21,11-Mar-22
+                    CR04-62-1040,IWPR04.AP.004.31,"R04 - South PR, Piping, Erect, Bolt-up/Weld-out, Trim/Punch Pipe Mid WP-31",0,30-Nov-21,25-Mar-22
+                    CR04-62-1230,IWPR04.AP.004.39,"R04 - South PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch Pipe EXP. Loop 04 WP-39",0,1-Dec-21,4-Apr-22
+                    CR04-62-1010,IWPR04.AP.004.23,"R04 - South PR, Piping Receive, Erect, Bolt-up/Weld-out, Trim/Punch- EXP. Loop 02 Pre-Fab WP-23",0,11-Nov-21,17-May-22
+                    CR04-62-1800,IWPR04.AP.004.24-W,"R04 - South PR, Piping, Weld-out & Support Pipe, Upper WP-24-W",0,22-Nov-21,17-May-22
+                450098-89942-MS01.C.25.R04.65 - Electrical,,,15,6-Jan-22,21-Feb-22
+                    CR04-65-1150,IWPR04.AE.001.001,R04 - Install Cable Tray CL W2 - W17 WP-001,0,6-Jan-22,31-Jan-22
+                    CR04-65-1160,IWPR04.AE.001.002,R04 - Install Cable Tray CL W18 - W40 WP-002,0,6-Jan-22,31-Jan-22
+                    CR04-65-1170,IWPR04.AE.001.003,R04 - Install Cable Tray CL SC Rack Substation (East Run) WP-003,0,6-Jan-22,31-Jan-22
+                    CR01-65-1370,IWPR01.AE.003.29,"R01 - North PR, Elect. Bulk Pull Cables 1/c #1000 /13.8kv Pull to SS-67 Tag & Coil WP-29",15,31-Jan-22,21-Feb-22
+                450098-89942-MS01.C.25.R04.65-S1 - Electrical (Contech) Subcontractor,,,20,6-Jan-22,28-Feb-22
+                    CR01-65-1500,IWPR04.AE.001,,0,6-Jan-22,31-Jan-22
+                    CR01-65-1420,IWPR04.AE.001,,3,31-Jan-22,2-Feb-22
+                    CR01-65-1510,IWPR04.AE.001,,15,3-Feb-22,24-Feb-22
+                    CR01-65-1380,IWPR01.AE.003.28,"R04 - South PR,  Elect. Bulk Pull Cables 1/c #1000 /13.8kv Pull to SS-66 Tag & Coil",25,31-Jan-22,28-Feb-22
+                    CR01-65-1390,IWPR01.AE.003.29,"R04 - South PR,  Elect. Bulk Pull Cables 1/c #1000 /13.8kv Pull to SS-67 Tag & Coil",25,31-Jan-22,28-Feb-22
+                450098-89942-MS01.C.25.R04.66-S - Painting & Protective Coatings,,,17,31-Jan-22,23-Feb-22
+                    CR04-66-1010,IWPR04.PC.001.02,"R04 - South PR, Painting & Coatings, Paint & Coat MOD. 02",15,31-Jan-22,21-Feb-22
+                    CR04-66-1000,IWPR04.PC.001.01,"R04 - South PR, Painting & Coatings Paint & Coat MOD. 01",15,2-Feb-22,23-Feb-22

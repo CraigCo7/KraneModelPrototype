@@ -1,0 +1,9 @@
+ID,ProcessOutput,ProcStep,ProcStepSuccessor,ProcStepDuration,ProcMaterialAssignment,ProcMaterialBatchSize,ProcResourceAssignment,ProcResourceQuantity
+1,LEVEL,Form Deck,2,1 day,"Posts, LVL 5', LVL 6', ProDeck 5', ProDeck 6', Misc Material (clips, braces, etc.), ","166.66666666666666, 66.66666666666667, 100.0, 100.0, 100.0, 73.33333333333333, ",Manpower (SubA),8
+2,LEVEL,Insert MEPs,3,1 day,"MEP inserts/hangers, ","333.3333333333333, ",Manpower (SubB),4
+3,LEVEL,Pull Rebar,4,1 day,"Post tension cables (20'), Dowels, Formsavers, ","33.333333333333336, 100.0, 100.0, ",Manpower (SubC),12
+4,LEVEL,Insert embeds and EOS itesm,5,1 day,"Edge of Slab embeds, Anchor bolts, ","333.3333333333333, 66.66666666666667, ",Manpower (SubA),3
+5,LEVEL,Quality control check and verify for concrete pour,6,1 day,,,Manpower (SubA),2
+6,LEVEL,Pour Concrete,7,1 day,,,Manpower (SubD),15
+7,LEVEL,Finish and Cure,8,1 day,,,Manpower (SubD),5
+8,LEVEL,Strip Formwork and recycle,9,1 day,,,Manpower (SubA),8
