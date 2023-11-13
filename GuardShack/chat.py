@@ -1,12 +1,12 @@
 import openai
 import pandas as pd
 import csv
+import os
 
 from feature import general
 
 # Load your API key from an environment variable or secret management service
-# openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.api_key = "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"
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
 csv_in_path = 'CE Input/GuardShackSchedule.csv'
