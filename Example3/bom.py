@@ -4,24 +4,37 @@ import gensim.downloader as api
 from sklearn.cluster import KMeans
 import numpy as np
 import pandas as pd
+from schedule import createScheduleDataframe
+import random
 
 # bomDf = pd.read_csv("Example 3 BOM - Rack 1 and 4.csv")
 
 
 def createRackFeature(value):
-    return value.split('-')[0]
+    return value.split('-')[0].strip()
 
 
 def createMaterialFeature(value):
-    return value.split('-')[1]
+    return value.split('-')[1].strip()
 
 
 def createSystemFeature(value):
-    return value.split('-')[2]
+    return value.split('-')[2].strip()
 
 
 def createTestingFeature(value):
-    return value.split('-')[3]
+    return value.split('-')[3].strip()
+
+
+def setOutput(value, list1, list2):
+    if value == 'R01':
+        output = list1.pop()
+        list1.insert(0, output)
+        return output
+    else:
+        output = list2.pop()
+        list2.insert(0, output)
+        return output
 
 
 def featureEngineer(bom_input_path):
@@ -31,16 +44,32 @@ def featureEngineer(bom_input_path):
     bomDf['Rack'] = bomDf['Spool'].apply(createRackFeature)
     bomDf['Material'] = bomDf['Spool'].apply(createMaterialFeature)
     bomDf['System'] = bomDf['Spool'].apply(createSystemFeature)
+
+    # Create Outputs - assign rack 1&4 to activities randomly.
+    scheduleDf = createScheduleDataframe('Example3ScheduleAdjusted.csv')
+    rack1 = scheduleDf.loc[scheduleDf['Rack'] == 'R01']
+    rack4 = scheduleDf.loc[scheduleDf['Rack'] == 'R04']
+
+    rack1_activities = rack1['ID'].values.tolist()
+    rack4_activities = rack4['ID'].values.tolist()
+
+    bomDf['Output Rack'] = bomDf['Rack'].apply(
+        setOutput, args=(rack1_activities, rack4_activities, ))
+
+    # More Feature Engineering
+
     # bomDf['Testing'] = bomDf['Spool'].apply(createTestingFeature)
     bomDf = pd.get_dummies(bomDf, columns=['Rack'], prefix='Rack')
     bomDf = pd.get_dummies(bomDf, columns=['Material'], prefix='Material')
     bomDf = pd.get_dummies(bomDf, columns=['System'], prefix='System')
-
+    bomDf = pd.get_dummies(bomDf, columns=['Assembly'], prefix='Assembly')
+    bomDf = pd.get_dummies(bomDf, columns=['Conn'], prefix='Conn')
     # bomDf = pd.get_dummies(bomDf, columns=['Subsystem'], prefix='Subsystem')
     bomDf = pd.get_dummies(bomDf, columns=['Test Pack'], prefix='Test Pack')
 
     bomDf.loc[bomDf['Pressure'].str.endswith("PSIG"), 'Pressure'] = bomDf.loc[bomDf['Pressure'].str.endswith(
         "PSIG"), 'Pressure'].str.rstrip('PSIG').astype(float)
+
     return bomDf
 
 # print(bomDf.columns)
@@ -105,6 +134,7 @@ def kmeansProcessOutput(bom_input_path, num_clusters):
     #     print()  # Add an empty line to separate clusters
 
 
+# featureEngineer('Example 3 BOM - Rack 1 and 4.csv')
 # kmeansProcessOutput('Example 3 BOM - Rack 1 and 4.csv', 25)
 # print(data[0])
 # kmeans.fit(data[0])

@@ -1,12 +1,8 @@
 import pandas as pd
-import openai
 from nltk.tokenize import word_tokenize
 from nltk import pos_tag
 import spacy
 
-# Load your API key from an environment variable or secret management service
-# openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.api_key = "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"
 
 scheduleDf = pd.read_csv("Example3Schedule.csv")
 delimiters = [".", ","]
@@ -78,6 +74,8 @@ def createScheduleDataframe(scheduleDf):
     # Create Output Features
 
     uniqueOutputs = df.drop_duplicates(subset=['Rack'])
+
+    df['ID'] = df.reset_index().index + 1
     # Iterate through all different output classes
     for i in uniqueOutputs['Rack'].values.tolist():
         label = "Output " + str(i.strip())
@@ -86,4 +84,4 @@ def createScheduleDataframe(scheduleDf):
     return df
 
 
-createScheduleDataframe('Example3ScheduleAdjusted.csv')
+# createScheduleDataframe('Example3ScheduleAdjusted.csv')
