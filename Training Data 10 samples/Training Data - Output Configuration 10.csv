@@ -1,0 +1,28 @@
+﻿ID,Product,Step Description,Step Duration,Next Step,Material Assignment,Material Batch Size,Material Unit of Measure
+1,Building,"Site Prep, Excavate and grade",20d,Formwork and Rebar Setup for Foundation;Underground Piping Installation,,,
+2,Building,Formwork and Rebar Setup for Foundation,20d,Concrete Pour for Foundation,Rebar;Forms;MEP Inserts,800;50;100,Units;Units;Units
+3,Building,Underground Piping Installation,21d,Concrete Pour for Foundation,PVC Pipes,1000,Linear Feet
+4,Building,Concrete Pour for Foundation,11d,Curing of Foundation and Quality Checks,Concrete,325,Cubic Yards
+5,Building,Curing of Foundation and Quality Checks,3d,Framing Construction (1st Level),,,
+6,Building,Framing Construction (1st Level),12d,Second Floor Formwork and Rebar Setup;Exterior Trim and Windows Installation (1st Level),2x4 Stud;Structural Beams,2500;250,Units;Units
+7,Building,Second Floor Formwork and Rebar Setup,16d,Second Floor Concrete Pour,Rebar;Forms;MEP Inserts,800;50;100,Units;Units;Units
+8,Building,Second Floor Concrete Pour,10d,Curing of Concrete and Quality Checks,Concrete,325,Cubic Yards
+9,Building,Curing of Concrete and Quality Checks,3d,Framing Construction (2nd Level);Final Inspection and Site Cleanup,,,
+10,Building,Framing Construction (2nd Level),21d,Exterior Trim and Windows Installation (2nd Level);Roof Installation,2x4 Stud;Structural Beams,2500;250,Units;Units
+11,Building,Final Inspection and Site Cleanup,2d,Rough-In Plumbing,,,
+12,Building,Exterior Trim and Windows Installation (1st Level),5d,Final Exterior Finishing,Exterior Brick;4x8 Tempered Glass Window;Exterior Doors,2500;50;10,Units;Units;Units
+13,Building,Exterior Trim and Windows Installation (2nd Level),8d,Final Exterior Finishing,Exterior Brick;4x8 Tempered Glass Window;Exterior Doors,2500;50;10,Units;Units;Units
+14,Building,Roof Installation,14d,Building Complete,Roof Trusses;Roofing Shingles,100;10000,Units;Square Feet
+15,Building,Final Exterior Finishing,7d,Conduit and Wiring Rough-In,Exterior Paint,500,Gallons
+16,Plumbing,Rough-In Plumbing,15d,Fixture and Appliance Installation,Copper Pipes;Pipe Fittings and Joints,500;200,Linear Feet;Units
+17,Plumbing,Fixture and Appliance Installation,21d,System Testing,Toilets;Sinks;Faucets;Drinking Fountains;Water Heater,20;30;50;10;2,Units;Units;Units;Units;Units
+18,Plumbing,System Testing,1d,Insulation Install,,,
+19,Plumbing,Insulation Install,14d,Final Inspection and Handover,Insulation Material,100,Yards
+20,Plumbing,Final Inspection and Handover,1d,Building Complete,,,
+21,Electrical System,Conduit and Wiring Rough-In,21d,Installation of PA and Security Systems;Installation of Data Network (FO/Ethernet);Lighting and Power Setup,Electrical Wires,5000,Linear Feet
+22,Electrical System,Installation of PA and Security Systems,15d,Testing and Commissioning of Systems,PA System Speakers;Security Cameras;Motion Detectors;Alarm Panel,20;15;10;1,Units;Units;Units;Units
+23,Electrical System,Installation of Data Network (FO/Ethernet),16d,Testing and Commissioning of Systems,Fiber Optic Cables;Ethernet Cables,2000;3000,Linear Feet;Linear Feet
+24,Electrical System,Lighting and Power Setup,20d,Testing and Commissioning of Systems,Power Outlets;Switches,100;75,Units;Units
+25,Electrical System,Testing and Commissioning of Systems,15d,Final Inspection and Handover,,,
+26,Electrical System,Final Inspection and Handover,1d,Building Complete,,,
+27,Building,Building Complete,0d,,,,

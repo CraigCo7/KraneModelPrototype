@@ -1,0 +1,9 @@
+Item Number,Description,Quantity,Unit,Supplier,Cost per Unit
+1,2x4 Stud,"5,000",Units,Lumber Supplier,
+2,Structural Beams,500,Units,Metal Supplier,
+3,Exterior Brick,"5,000",Units,Brick Supplier,
+4,4x8 Tempered Glass Window,100,Units,Window Supplier,
+5,Exterior Doors,20,Units,Door Supplier,
+6,Roof Trusses,100,Units,Roofing Supplier,
+7,Roofing Shingles,"10,000",Square Feet,Roofing Supplier,
+8,Exterior Paint,500,Gallons,Paint Supplier,

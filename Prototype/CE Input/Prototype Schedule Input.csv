@@ -1,4 +1,4 @@
-Activity ID,Activity Description,Start Date,End Date,Subcontractor,Foreman,Manpower ,Equipment Loading,Critical Path,Completion
+Activity ID,Activity Description,Start Date,End Date,Subcontractor,Foreman,Manpower,Equipment Loading,Critical Path,Completion
 1,Form Deck - Level 1 ,10/25/2023,10/26/2023,SubA,,8,,,
 2,Insert MEPs - Level 1,10/26/2023,10/27/2023,SubB,,4,,,
 3,Pull Rebar - Level 1 ,10/27/2023,10/28/2023,SubC,,12,,,

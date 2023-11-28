@@ -1,0 +1,27 @@
+Task Number,Description,Start Date,End Date,Duration (Days),Contractor
+1,Framing Construction (1st Level),5/25/2024,6/5/2024,12,Framers Tech
+2,Exterior Trim and Windows Installation (1st Level),6/6/2024,6/10/2024,5,Specialty Builders
+3,Framing Construction (2nd Level),7/5/2024,7/25/2024,21,Framers Tech
+4,Exterior Trim and Windows Installation (2nd Level),7/26/2024,8/2/2024,8,Specialty Builders
+5,Roof Installation,7/26/2024,8/8/2024,14,Framers Tech
+6,Final Exterior Finishing,8/9/2024,8/15/2024,7,Specialty Builders
+7,Conduit and Wiring Rough-In,8/16/2024,9/5/2024,21,All Electric
+8,Installation of PA and Security Systems,9/6/2024,9/20/2024,15,All Electric
+9,Installation of Data Network (FO/Ethernet),9/6/2024,9/21/2024,16,All Electric
+10,Lighting and Power Setup,9/6/2024,9/25/2024,20,All Electric
+11,Testing and Commissioning of Systems,9/26/2024,10/10/2024,15,All Electric
+12,Final Inspection and Handover,10/11/2024,10/11/2024,1,EITech
+13,"Site Prep, Excavate and grade",4/1/2024,4/20/2024,20,Local Contractor United
+14,Formwork and Rebar Setup for Foundation,4/21/2024,5/10/2024,20,Local Contractor United
+15,Concrete Pour for Foundation,5/11/2024,5/21/2024,11,Local Contractor United
+16,Curing of Foundation and Quality Checks,5/22/2024,5/24/2024,3,Local Contractor United
+17,Second Floor Formwork and Rebar Setup,6/6/2024,6/21/2024,16,Local Contractor United
+18,Second Floor Concrete Pour,6/22/2024,7/1/2024,10,Local Contractor United
+19,Curing of Concrete and Quality Checks,7/2/2024,7/4/2024,3,Local Contractor United
+20,Final Inspection and Site Cleanup,7/5/2024,7/6/2024,2,Local Contractor United
+21,Underground Piping Installation,4/21/2024,5/11/2024,21,Pump-up Plumbing
+22,Rough-In Plumbing,7/7/2024,7/21/2024,15,Pump-up Plumbing
+23,Fixture and Appliance Installation,7/22/2024,8/11/2024,21,Serf Serve
+24,System Testing,8/12/2024,8/12/2024,1,Pump-up Plumbing
+25,Insulation Install,8/13/2024,8/26/2024,14,Serf Serve
+26,Final Inspection,8/27/2024,8/27/2024,1,LoGistics Inspectors

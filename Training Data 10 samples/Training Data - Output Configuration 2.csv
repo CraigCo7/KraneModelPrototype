@@ -1,0 +1,9 @@
+﻿ID,Product,Step Description,Step Duration,Next Step,Material Assignment,Material Batch Size,Material Unit of Measure
+1,Sports Complex,Earthwork and Foundation,14d,"Football Field Construction, Swimming Pool Construction",Concrete,500,Cubic Yards
+2,Sports Complex,Football Field Construction,31d,Gymnasium Construction,Grass Seed;Paint,1000;250,Pounds;Gallons
+3,Sports Complex,Swimming Pool Construction,31d,Gymnasium Construction,Tiles;Gunite,2000;1000,Square Feet;Gallons
+4,Sports Complex,Gymnasium Construction,30d,"Landscaping and Parking, Interior Finishing",Steel Beams,100,Tons
+5,Sports Complex,Landscaping and Parking,31d,Safety Inspections,Plants,40,Units
+6,Sports Complex,Interior Finishing,31d,Safety Inspections,Paint,250,Gallons
+7,Sports Complex,Safety Inspections,1d,Project Complete,Safety Equipment,20,Units
+8,Sports Complex,Sports Complex Complete,0d,,,,

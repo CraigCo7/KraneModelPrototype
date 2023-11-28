@@ -1,0 +1,9 @@
+Item Number,Description,Quantity,Unit,Supplier,Cost per Unit
+1,Concrete,500,Cubic Yards,Supplier A,
+2,Steel Bracing,20,Tons,Supplier B,
+3,2x24x20 Glulam,200,Units,Supplier C,
+4,4x8 Tempered Glass,100,Units,Supplier D,
+5,Electrical Wiring,5000,Linear Feet,Supplier E,
+6,Galvanized Pipe,1000,Linear Feet,Supplier F,
+7,"4""PVC",2500,Linear Feet,Supplier F,
+8,PVC Couplers and Fittings,500,Units,Supplier F,

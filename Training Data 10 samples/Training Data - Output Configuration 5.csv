@@ -1,0 +1,9 @@
+﻿ID,Product,Step Description,Step Duration,Next Step,Material Assignment,Material Batch Size,Material Unit of Measure
+1,Building,Site Preparation,15d,Foundation Work,,,
+2,Building,Foundation Work,21d,Structural Framework,Concrete,500,Cubic Yards
+3,Building,Structural Framework,32d,Roofing;Interior Work;Electrical and Plumbing Installation,Steel Bracing;2x24x20 Glulam,20;200,Tons;Units
+4,Building,Roofing,14d,Finishing,,,
+5,Building,Interior Work,36d,Finishing,,,
+6,Building,Electrical and Plumbing Installation,20d,Finishing,"Electrical Wiring;Galvanized Pipe;4""PVC;PVC Couplers and Fittings",5000;1000;2500;500,Linear Feet;Linear Feet;Linear Feet;Units
+7,Building,Finishing,26d,Building Complete,,,
+8,Building,Building Complete,0d,,,,

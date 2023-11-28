@@ -1,0 +1,10 @@
+﻿ID,Product,Step Description,Step Duration,Next Step,Material Assignment,Material Batch Size,Material Unit of Measure
+1,Building,"Site Prep, Excavate and grade",20d,Formwork and Rebar Setup for Foundation,,,
+2,Building,Formwork and Rebar Setup for Foundation,20d,Concrete Pour for Foundation,Rebar;Forms;MEP Inserts,800;50;100,Units;Units;Units
+3,Building,Concrete Pour for Foundation,11d,Curing of Foundation and Quality Checks,Concrete,325,Cubic Yards
+4,Building,Curing of Foundation and Quality Checks,3d,Second Floor Formwork and Rebar Setup,,,
+5,Building,Second Floor Formwork and Rebar Setup,16d,Second Floor Concrete Pour,Rebar;Forms;MEP Inserts,800;50;100,Units;Units;Units
+6,Building,Second Floor Concrete Pour,10d,Curing of Concrete and Quality Checks,Concrete,325,Cubic Yards
+7,Building,Curing of Concrete and Quality Checks,3d,Final Inspection and Site Cleanup,,,
+8,Building,Final Inspection and Site Cleanup,2d,Building Complete,,,
+9,Building,Building Complete,0d,,,,

@@ -1,0 +1,9 @@
+ID,ProcessOutput,ProcStep,ProcStepSuccessor,ProcStepDuration,ProcMaterialAssignment,ProcMaterialBatchSize,ProcResourceAssignment,ProcResourceQuantity
+1,Roof,Form Deck,Insert MEPs - Level 1,1 day,"['Posts', ""LVL 5'"", ""LVL 6'"", ""ProDeck 5'"", ""ProDeck 6'"", 'Misc Material (clips, braces, etc.)']","[166.66666666666666, 66.66666666666667, 100.0, 100.0, 100.0, 73.33333333333333]",SubA,8.0
+2,Roof,Insert MEPs,Pull Rebar - Level 1,1 day,[],[],SubB,4.0
+3,Foundation,Pull Rebar,Insert embeds and EOS itesm - level 1,1 day,"[""Post tension cables (20')"", 'Dowels', 'Formsavers']","[33.333333333333336, 100.0, 100.0]",SubC,12.0
+4,Foundation,Insert embeds and EOS itesm,Quality control check and verify for concrete pour - Level 1,1 day,"['MEP inserts/hangers', 'Edge of Slab embeds', 'Anchor bolts']","[333.3333333333333, 333.3333333333333, 66.66666666666667]",SubA,8.0
+5,Foundation,Quality control check and verify for concrete pour,Pour Concrete - Level 1,1 day,[],[],SubA,8.0
+6,Foundation,Pour Concrete,Finish and Cure - Level 1,1 day,[],[],SubD,15.0
+7,Foundation,Finish and Cure,Strip Formwork and recycle - Level 1,1 day,[],[],SubD,15.0
+8,Foundation,Strip Formwork and recycle,[],1 day,[],[],SubA,8.0

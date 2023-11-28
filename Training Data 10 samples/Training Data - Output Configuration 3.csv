@@ -1,0 +1,10 @@
+﻿ID,Product,Step Description,Step Duration,Next Step,Material Assignment,Material Batch Size,Material Unit of Measure
+1,Project,Site Preparation,2d,Foundation Work,Gravel,50,cubic yards
+2,Project,Foundation Work,5d,Framing and Structure,Concrete,100,cubic yards
+3,Project,Framing and Structure,14d,Roofing;Interior Detailing,2x4x8 dimensional lumber;2x6x8 dimensional lumber;2x8x8 dimensional lumber,720;216;216,units;units;units
+4,Project,Roofing,7d,Exterior Finishing,Roofing Tiles,120,square yards
+5,Project,Exterior Finishing,42d,Landscaping,Siding,200,square yards
+6,Project,Interior Detailing,70d,Final Walkthrough,Drywall;Fixtures;Appliances,500;80;10,square yards;units;units
+7,Project,Landscaping,21d,Final Walkthrough,Plants,20,units
+8,Project,Final Walkthrough,1d,Project Complete,,,
+9,Project,Project Complete,0d,,,,

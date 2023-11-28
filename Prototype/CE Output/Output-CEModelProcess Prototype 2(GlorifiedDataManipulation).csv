@@ -1,0 +1,9 @@
+ID,ProcessOutput,ProcStep,ProcStepSuccessor,ProcStepDuration,ProcMaterialAssignment,ProcMaterialBatchSize,ProcResourceAssignment,ProcResourceQuantity
+1,Foundation,Concrete curing,Post pour inspection and sign-off,1 day,[],[],Concrete Crew,10
+2,Foundation,Dismantle forms,Install forms,0:00:00,[],[],Form Crew,8
+3,Foundation,Install forms,Install rebar and embed items,0:00:00,"['Form post', 'Form level', 'Form deck']","[150.0, 75.0, 1500.0]",Form Crew,8
+4,Foundation,Install MEPs,Pre pour inspection,0:00:00,['MEP hangers'],[350.0],Rebar Crew,4
+5,Foundation,Install rebar and embed items,Pour concrete,0:00:00,"['Rebar/post tensioners', '5/8"" Rebar', 'EOS embed', 'Embed anchor bolts']","[40.0, 400.0, 332.0, 66.0]",Rebar Crew,4
+6,Foundation,Post pour inspection and sign-off,Concrete curing,0:00:00,[],[],QC Inspector,1
+7,Foundation,Pour concrete,Dismantle forms,0:00:00,['Concrete'],[200.0],Concrete Crew,10
+8,Foundation,Pre pour inspection,Install MEPs,0:00:00,[],[],QC Inspector,1

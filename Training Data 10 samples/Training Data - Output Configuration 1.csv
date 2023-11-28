@@ -1,0 +1,10 @@
+﻿ID,Product,Step Description,Step Duration,Next Step,Material Assignment,Material Batch Size,Material Unit of Measure
+1,Level,Install forms,1d,Install MEPs,Form post;Form level;Form deck,150;75;1500,Units;Units;Linear Feet
+2,Level,Install MEPs,0.5d,Install rebar and embed items,MEP hangers,350,Units
+3,Level,Install rebar and embed items,0.5d,Pre-pour inspection,"Rebar/post tensioners;5/8"" Rebar;EOS embed;Embed anchor bolts",40;400;332;66,Units;Linear Feet;Units;Units
+4,Level,Pre-pour inspection,0.333d,Pour concrete,,,
+5,Level,Pour concrete,0.333d,Concrete curing,Concrete,200,Cubic Yards
+6,Level,Concrete curing,0.5d,Post-pour inspection and sign-off,,,
+7,Level,Post-pour inspection and sign-off,0.333d,Dismantle forms,,,
+8,Level,Dismantle forms,0.5d,Install forms;Level Complete,,,
+9,Level,Level Complete,0d,,,,

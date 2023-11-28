@@ -1,0 +1,9 @@
+﻿ID,Product,Step Description,Step Duration,Next Step,Material Assignment,Material Batch Size,Material Unit of Measure
+1,Electrical System,Design and Planning of Electrical Systems,15d,Conduit and Wiring Rough-In,"1/2"" Conduit;Conduit unions, elbows, etc.",1250;250,Linear Feet;Units
+2,Electrical System,Conduit and Wiring Rough-In,21d,Installation of PA and Security Systems;Installation of Data Network (FO/Ethernet);Lighting and Power Setup,Electrical Wires,5000,Linear Feet
+3,Electrical System,Installation of PA and Security Systems,15d,Testing and Commissioning of Systems,PA System Speakers;Security Cameras;Motion Detectors;Alarm Panel,20;15;10;1,Units;Units;Units;Units
+4,Electrical System,Installation of Data Network (FO/Ethernet),16d,Testing and Commissioning of Systems,Fiber Optic Cables;Ethernet Cables,2000;3000,Linear Feet;Linear Feet
+5,Electrical System,Lighting and Power Setup,20d,Testing and Commissioning of Systems,Power Outlets;Switches,100;75,Units;Units
+6,Electrical System,Testing and Commissioning of Systems,15d,Final Inspection and Handover,,,
+7,Electrical System,Final Inspection and Handover,1d,Electrical System Complete,,,
+9,Electrical System,Electrical System Complete,0d,,,,

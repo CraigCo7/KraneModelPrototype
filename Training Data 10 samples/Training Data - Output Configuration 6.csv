@@ -1,0 +1,9 @@
+﻿ID,Product,Step Description,Step Duration,Next Step,Material Assignment,Material Batch Size,Material Unit of Measure
+1,Building,Design and Planning of Plumbing Systems,15d,Underground Piping Installation,,,
+2,Building,Underground Piping Installation,21d,Rough-In Plumbing,PVC Pipes,1000,Linear Feet
+3,Building,Rough-In Plumbing,15d,Fixture and Appliance Installation,Copper Pipes;Pipe Fittings and Joints,500;200,Linear Feet;Units
+4,Building,Fixture and Appliance Installation,21d,System Testing,Toilets;Sinks;Faucets;Drinking Fountains;Water Heater,20;30;50;10;2,Units;Units;Units;Units;Units
+5,Building,System Testing,1d,Insulation Install,,,
+6,Building,Insulation Install,14d,Final Inspection and Handover,Insulation Material,100,Yards
+7,Building,Final Inspection and Handover,1d,Building Complete,,,
+8,Building,Building Complete,0d,,,,

@@ -1,0 +1,17 @@
+﻿ID,Product,Step Description,Step Duration,Next Step,Material Assignment,Material Batch Size,Material Unit of Measure
+1,Building,Framing Construction (1st Level),14d,Exterior Trim and Windows Installation (1st Level);Framing Construction (2nd Level),2x4 Stud;Structural Beams,2500;250,Units;Units
+2,Building,Exterior Trim and Windows Installation (1st Level),5d,Final Exterior Finishing,Exterior Brick;4x8 Tempered Glass Window;Exterior Doors,2500;50;10,Units;Units;Units
+3,Building,Framing Construction (2nd Level),21d,Exterior Trim and Windows Installation (2nd Level);Roof Installation,2x4 Stud;Structural Beams,2500;250,Units;Units
+4,Building,Exterior Trim and Windows Installation (2nd Level),8d,Final Exterior Finishing,Exterior Brick;4x8 Tempered Glass Window;Exterior Doors,2500;50;10,Units;Units;Units
+5,Building,Roof Installation,14d,Building Complete,Roof Trusses;Roofing Shingles,100;10000,Units;Square Feet
+6,Building,Final Exterior Finishing,7d,Building Complete,Exterior Paint,500,Gallons
+9,Building,Building Complete,0d,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

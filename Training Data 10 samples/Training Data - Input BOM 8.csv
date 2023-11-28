@@ -1,0 +1,13 @@
+Item Number,Description,Quantity,Unit,Supplier,Cost per Unit
+1,Electrical Wires,5000,Linear Feet,Electrical Supplier,
+2,PA System Speakers,20,Units,Audio Equipment Supplier,
+3,Security Cameras,15,Units,Security Equipment Supplier,
+4,Motion Detectors,10,Units,Security Equipment Supplier,
+5,Fiber Optic Cables,2000,Linear Feet,Network Supplier,
+6,Ethernet Cables,3000,Linear Feet,Network Supplier,
+7,Light Fixtures,50,Units,Lighting Supplier,
+8,Power Outlets,100,Units,Electrical Supplier,
+9,Switches,75,Units,Electrical Supplier,
+10,Alarm Panel,1,Units,Security Equipment Supplier,
+11,"1/2"" Conduit",1250,Linear Feet,Electrical Supplier,
+12,"Conduit unions, elbows, etc.",250,Units,Electrical Supplier,

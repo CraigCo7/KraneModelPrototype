@@ -1,0 +1,41 @@
+﻿Task,FC Start,FC Finish,Labor Assignment,Crew Size,Equipment,No.
+Concrete curing - level 1,1/3/2024,1/4/2024,Concrete Crew,10,,6
+Concrete curing - level 2,1/6/2024,1/7/2024,Concrete Crew,10,,14
+Concrete curing - level 3,1/9/2024,1/10/2024,Concrete Crew,10,,22
+Concrete curing - level 4,1/12/2024,1/13/2024,Concrete Crew,10,,30
+Concrete curing - level 5,1/15/2024,1/16/2024,Concrete Crew,10,,38
+Dismantle forms - level 1,1/4/2024,1/4/2024,Form Crew,8,Deck Forms,8
+Dismantle forms - level 2,1/7/2024,1/7/2024,Form Crew,8,Deck Forms,16
+Dismantle forms - level 3,1/10/2024,1/10/2024,Form Crew,8,Deck Forms,24
+Dismantle forms - level 4,1/13/2024,1/13/2024,Form Crew,8,Deck Forms,32
+Dismantle forms - level 5,1/16/2024,1/16/2024,Form Crew,8,Deck Forms,40
+Install forms - level 1,1/1/2024,1/1/2024,Form Crew,8,Deck Forms,1
+Install forms - level 2,1/4/2024,1/5/2024,Form Crew,8,Deck Forms,9
+Install forms - level 3,1/7/2024,1/8/2024,Form Crew,8,Deck Forms,17
+Install forms - level 4,1/10/2024,1/11/2024,Form Crew,8,Deck Forms,25
+Install forms - level 5,1/13/2024,1/14/2024,Form Crew,8,Deck Forms,33
+Install MEPs - level 1,1/2/2024,1/2/2024,Rebar Crew,4,,2
+Install MEPs - level 2,1/5/2024,1/5/2024,Rebar Crew,4,,10
+Install MEPs - level 3,1/8/2024,1/8/2024,Rebar Crew,4,,18
+Install MEPs - level 4,1/11/2024,1/11/2024,Rebar Crew,4,,26
+Install MEPs - level 5,1/14/2024,1/14/2024,Rebar Crew,4,,34
+Install rebar and embed items - level 1,1/2/2024,1/2/2024,Rebar Crew,4,Rebar Bender,3
+Install rebar and embed items - level 2,1/5/2024,1/5/2024,Rebar Crew,4,Rebar Bender,11
+Install rebar and embed items - level 3,1/8/2024,1/8/2024,Rebar Crew,4,Rebar Bender,19
+Install rebar and embed items - level 4,1/11/2024,1/11/2024,Rebar Crew,4,Rebar Bender,27
+Install rebar and embed items - level 5,1/14/2024,1/14/2024,Rebar Crew,4,Rebar Bender,35
+Post-pour inspection and sign-off - level 1,1/4/2024,1/4/2024,QC Inspector,1,,7
+Post-pour inspection and sign-off - level 2,1/7/2024,1/7/2024,QC Inspector,1,,15
+Post-pour inspection and sign-off - level 3,1/10/2024,1/10/2024,QC Inspector,1,,23
+Post-pour inspection and sign-off - level 4,1/13/2024,1/13/2024,QC Inspector,1,,31
+Post-pour inspection and sign-off - level 5,1/16/2024,1/16/2024,QC Inspector,1,,39
+Pour concrete - level 1,1/3/2024,1/3/2024,Concrete Crew,10,Mixer Truck,5
+Pour concrete - level 2,1/6/2024,1/6/2024,Concrete Crew,10,Mixer Truck,13
+Pour concrete - level 3,1/9/2024,1/9/2024,Concrete Crew,10,Mixer Truck,21
+Pour concrete - level 4,1/12/2024,1/12/2024,Concrete Crew,10,Mixer Truck,29
+Pour concrete - level 5,1/15/2024,1/15/2024,Concrete Crew,10,Mixer Truck,37
+Pre-pour inspection - level 1,1/3/2024,1/3/2024,QC Inspector,1,,4
+Pre-pour inspection - level 2,1/6/2024,1/6/2024,QC Inspector,1,,12
+Pre-pour inspection - level 3,1/9/2024,1/9/2024,QC Inspector,1,,20
+Pre-pour inspection - level 4,1/12/2024,1/12/2024,QC Inspector,1,,28
+Pre-pour inspection - level 5,1/15/2024,1/15/2024,QC Inspector,1,,36
